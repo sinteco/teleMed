@@ -17,4 +17,18 @@
         android:id="@+id/splash"
         ></ImageView>
 
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="186dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="430dp"
+        android:layout_marginRight="110dp"
+        android:layout_marginBottom="5dp"
+        android:textColor="@color/colorAccent"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Telemedicine Ethiopia" />
+
+
 </RelativeLayout>
